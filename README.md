@@ -3,6 +3,8 @@
 
 A Pygame spacebar clicker
 
+must have pygame installed to run the clicker
+
 Made with the help of Mr Baumgarten's youtube playlist
 
 Channel: https://www.youtube.com/user/pbaumgarten
